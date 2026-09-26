@@ -1,0 +1,20 @@
+# Local Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded and generated datasets
+data/
+
+# Trained model files
+models/
+
+# Notebook temporary files
+.ipynb_checkpoints/
