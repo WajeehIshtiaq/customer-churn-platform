@@ -1,0 +1,2 @@
+Model,Threshold,TestCustomers,accuracy,precision,recall,f1,roc_auc,average_precision,TruePositives,FalseNegatives,FalsePositives,TrueNegatives
+Tuned Gradient Boosting,0.35,1409,0.7806955287437899,0.5690021231422505,0.7165775401069518,0.6343195266272189,0.8457322586478596,0.6644819957518501,268,106,203,832
