@@ -3,6 +3,7 @@ annotated-types==0.8.0
 anyio==4.15.1
 click==8.5.0
 cloudpickle==3.1.2
+colorama==0.4.6
 contourpy==1.4.0
 cycler==0.12.1
 fastapi==0.154.0
@@ -24,9 +25,12 @@ pyparsing==3.3.3
 python-dateutil==2.9.0.post0
 scikit-learn==1.9.1
 scipy==1.18.1
+shap==0.54.1
 six==1.17.0
+slicer==0.0.8
 starlette==1.9.0
 threadpoolctl==3.7.0
+tqdm==4.70.1
 typing-inspection==0.4.4
 typing_extensions==4.16.0
 tzdata==2026.4

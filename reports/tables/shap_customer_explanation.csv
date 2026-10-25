@@ -1,0 +1,47 @@
+customerID,Feature,TransformedValue,SHAPContribution
+7054-ENNGU,numeric__SeniorCitizen,-0.44177295439277764,-0.049512327066622674
+7054-ENNGU,numeric__tenure,-0.9559778674420595,0.37243211418855937
+7054-ENNGU,numeric__MonthlyCharges,-0.46722282317668157,-0.165590161238797
+7054-ENNGU,numeric__TotalCharges,-0.8041830086607499,0.023776774331054185
+7054-ENNGU,numeric__ServiceCount,-0.5705298937831644,0.031952875005081295
+7054-ENNGU,categorical__gender_Female,1.0,-0.0013125279545783996
+7054-ENNGU,categorical__gender_Male,0.0,0.0
+7054-ENNGU,categorical__Partner_No,0.0,0.0
+7054-ENNGU,categorical__Partner_Yes,1.0,0.0
+7054-ENNGU,categorical__Dependents_No,1.0,0.010742022895719856
+7054-ENNGU,categorical__Dependents_Yes,0.0,0.013834919079672546
+7054-ENNGU,categorical__PhoneService_No,0.0,0.0
+7054-ENNGU,categorical__PhoneService_Yes,1.0,0.0
+7054-ENNGU,categorical__MultipleLines_No,1.0,-0.15497427967377006
+7054-ENNGU,categorical__MultipleLines_No phone service,0.0,-0.001782461884431541
+7054-ENNGU,categorical__MultipleLines_Yes,0.0,0.0
+7054-ENNGU,categorical__InternetService_DSL,1.0,-0.0017621803656220436
+7054-ENNGU,categorical__InternetService_Fiber optic,0.0,-0.3862157634366304
+7054-ENNGU,categorical__InternetService_No,0.0,0.0
+7054-ENNGU,categorical__OnlineSecurity_No,1.0,0.19949095964431762
+7054-ENNGU,categorical__OnlineSecurity_No internet service,0.0,0.0
+7054-ENNGU,categorical__OnlineSecurity_Yes,0.0,0.0
+7054-ENNGU,categorical__OnlineBackup_No,0.0,-0.07313427415210753
+7054-ENNGU,categorical__OnlineBackup_No internet service,0.0,0.0
+7054-ENNGU,categorical__OnlineBackup_Yes,1.0,0.0
+7054-ENNGU,categorical__DeviceProtection_No,1.0,0.0
+7054-ENNGU,categorical__DeviceProtection_No internet service,0.0,0.0
+7054-ENNGU,categorical__DeviceProtection_Yes,0.0,0.0
+7054-ENNGU,categorical__TechSupport_No,1.0,0.18449996680486946
+7054-ENNGU,categorical__TechSupport_No internet service,0.0,0.0
+7054-ENNGU,categorical__TechSupport_Yes,0.0,0.0
+7054-ENNGU,categorical__StreamingTV_No,1.0,0.0
+7054-ENNGU,categorical__StreamingTV_No internet service,0.0,0.0
+7054-ENNGU,categorical__StreamingTV_Yes,0.0,-0.04997867107158527
+7054-ENNGU,categorical__StreamingMovies_No,1.0,0.0
+7054-ENNGU,categorical__StreamingMovies_No internet service,0.0,0.0
+7054-ENNGU,categorical__StreamingMovies_Yes,0.0,-0.04269477002322674
+7054-ENNGU,categorical__Contract_Month-to-month,1.0,0.3434461209597066
+7054-ENNGU,categorical__Contract_One year,0.0,-0.009950089305639266
+7054-ENNGU,categorical__Contract_Two year,0.0,0.09404943638015538
+7054-ENNGU,categorical__PaperlessBilling_No,1.0,-0.16962733194464819
+7054-ENNGU,categorical__PaperlessBilling_Yes,0.0,-0.05130875800969079
+7054-ENNGU,categorical__PaymentMethod_Bank transfer (automatic),0.0,0.0
+7054-ENNGU,categorical__PaymentMethod_Credit card (automatic),0.0,0.0
+7054-ENNGU,categorical__PaymentMethod_Electronic check,0.0,-0.1254946303681936
+7054-ENNGU,categorical__PaymentMethod_Mailed check,1.0,0.007409459799528122

@@ -1,0 +1,47 @@
+Feature,MeanAbsoluteSHAP
+numeric__tenure,0.5121560077095099
+categorical__Contract_Month-to-month,0.44190392028190184
+categorical__InternetService_Fiber optic,0.29935425253195674
+numeric__MonthlyCharges,0.19927751544518382
+categorical__OnlineSecurity_No,0.19672929143035767
+categorical__TechSupport_No,0.18937760700525716
+categorical__Contract_Two year,0.16539478315911274
+categorical__PaymentMethod_Electronic check,0.16428849009102445
+categorical__MultipleLines_No,0.11092003763262197
+numeric__TotalCharges,0.0931652583146491
+categorical__OnlineBackup_No,0.08897953454823704
+categorical__PaperlessBilling_No,0.08551300977113648
+categorical__StreamingTV_Yes,0.060426202256120796
+numeric__SeniorCitizen,0.04458321300559675
+categorical__StreamingMovies_Yes,0.04371683394011587
+categorical__PaperlessBilling_Yes,0.03072526008908635
+numeric__ServiceCount,0.025888535539954977
+categorical__Dependents_Yes,0.02527652967350554
+categorical__Contract_One year,0.018104187491610635
+categorical__Dependents_No,0.015853870005910306
+categorical__TechSupport_Yes,0.006680845175981529
+categorical__PaymentMethod_Mailed check,0.0040937265392393075
+categorical__InternetService_DSL,0.0037781147038936517
+categorical__gender_Female,0.0026694943556189628
+categorical__MultipleLines_No phone service,0.0020302953848428972
+categorical__PaymentMethod_Credit card (automatic),0.0007040876485034808
+categorical__gender_Male,0.0
+categorical__PhoneService_No,0.0
+categorical__Partner_No,0.0
+categorical__Partner_Yes,0.0
+categorical__PhoneService_Yes,0.0
+categorical__DeviceProtection_Yes,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__DeviceProtection_No,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__OnlineBackup_Yes,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__OnlineSecurity_Yes,0.0
+categorical__InternetService_No,0.0
+categorical__MultipleLines_Yes,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__StreamingTV_No internet service,0.0
+categorical__StreamingMovies_No,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__StreamingTV_No,0.0
+categorical__PaymentMethod_Bank transfer (automatic),0.0
