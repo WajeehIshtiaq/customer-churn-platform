@@ -1,0 +1,8 @@
+**
+!Dockerfile
+!requirements-lambda.txt
+!api.py
+!lambda_handler.py
+!models/
+!models/gradient_boosting_pipeline.joblib
+!models/prediction_config.json
