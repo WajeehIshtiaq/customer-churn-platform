@@ -18,3 +18,5 @@ models/
 
 # Notebook temporary files
 .ipynb_checkpoints/
+# Local utilities
+/Tools/
