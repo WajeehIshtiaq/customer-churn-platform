@@ -20,3 +20,5 @@ models/
 .ipynb_checkpoints/
 # Local utilities
 /Tools/
+/dashboard_backup*.py
+/.streamlit/secrets.toml
